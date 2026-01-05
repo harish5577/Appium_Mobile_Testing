@@ -28,4 +28,4 @@
 
 #Step 5: Set brightness to MIN
 
-"step 6:
+
